@@ -4,8 +4,11 @@
 }
 #back {
   width: 500px;
-  height: 800px;
+  height: 600px;
   text-align: center;
+  margin: 100px auto;
+  border: 2px solid #fff;
+  border-radius: 30px;
 }
 .vid {
   width: 100%;
